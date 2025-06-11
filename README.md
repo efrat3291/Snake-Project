@@ -1,3 +1,2 @@
-# snake-project-js
-##game snake
-https://chagit3266.github.io/snake-project-js/index.html
+# 🐍 משחק סנייק
+https://efrat3291.github.io/Snake-Project/
