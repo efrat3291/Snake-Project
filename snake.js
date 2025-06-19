@@ -1,10 +1,10 @@
-// גלןבלי
+// גלובלי
 //----------------------------------------------------------------------------- 
 let name=window.location.pathname;
- let countFood = 0;                                   //מספר תפוחים שהושגו
+let countFood = 0;                                   //מספר תפוחים שהושגו
  
+document.querySelector('#gameCanvas').focus();
 document.querySelector('#score').innerHTML = countFood;
-debugger
 console.log(localStorage.getItem('highScoreSnake'));
 
 if(localStorage.getItem('highScoreSnake')==null)
